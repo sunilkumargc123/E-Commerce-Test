@@ -1,4 +1,4 @@
-# DummyJSON E-commerce Storefront
+# E-commerce Storefront using DummyJSON
 
 A small Next.js storefront backed by the live DummyJSON products API. It includes a product catalog, product detail pages, and a persistent client-side cart.
 
